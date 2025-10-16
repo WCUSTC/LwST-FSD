@@ -71,8 +71,7 @@ FIgLib
 │   ├── FIgLib_test.txt
 ```
 - **SKLFS-WildFire**
-  [SKLFS-WildFire dataset download here (unavailable)](https://xxx) 
-  Same as FIgLib. However, SKLFS-WildFire does not set a validation set, and users can self split from the training set
+  [SKLFS-WildFire dataset download here (unavailable)](https://xxx) Same as FIgLib. However, SKLFS-WildFire does not set a validation set, and users can self split from the training set
 ```
 SKLFS-WildFire
 ├── train
@@ -86,8 +85,7 @@ SKLFS-WildFire
 ```
 
 - **SKLFS-WildFire2025**
-  [SKLFS-WildFire2025 dataset download here (unavailable)](https://xxx) 
-  Same as FIgLib. However, SKLFS-WildFire2025 does not set a validation set, and users can self split from the training set
+  [SKLFS-WildFire2025 dataset download here (unavailable)](https://xxx) . Same as FIgLib. However, SKLFS-WildFire2025 does not set a validation set, and users can self split from the training set
 ```
 SKLFS-WildFire2025
 ├── train
