@@ -1,0 +1,1 @@
+E:\mmdetection320\venv\Scripts\python.exe setup.py build install 
