@@ -102,13 +102,18 @@ SKLFS-WildFire2025
 
 ## Getting Started
 
- 
+   For training, run
+  ```Shell
+  python tools/train.py [path_to_your_config] 
+  ```
+
+
 
 ## Finetuned Models
 
-| Model                 | Download     |
-|-----------------------|--------------|
-| xxx   | [download]() ||
+| Model              |  description                    | Dateset      | Download     |
+|--------------------|---------------------------------|--------------|--------------|
+| LwST-FSD           | 5 frames TS-CSPDarkNet-Small    |FIgLib        |[download](链接：https://pan.ustc.edu.cn/share/index/5b015f2c73e24fd48b82) |
 
 
 ## Citation
