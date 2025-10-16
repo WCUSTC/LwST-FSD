@@ -113,7 +113,7 @@ SKLFS-WildFire2025
 
 | Model              |  description                    | Dateset      | Download     |
 |--------------------|---------------------------------|--------------|--------------|
-| LwST-FSD           | 5 frames TS-CSPDarkNet-Small    |FIgLib        |[download](链接：https://pan.ustc.edu.cn/share/index/5b015f2c73e24fd48b82) |
+| LwST-FSD           | 5 frames TS-CSPDarkNet-Small    |FIgLib        |[download](https://pan.ustc.edu.cn/share/index/5b015f2c73e24fd48b82) |
 
 
 ## Citation
