@@ -72,7 +72,7 @@ FIgLib
 ```
 - **SKLFS-WildFire**
 
-  [SKLFS-WildFire dataset download here ](https://pan.ustc.edu.cn/share/index/863fffe6738a4749b219?p=1) key: OFfV
+  [SKLFS-WildFire dataset download here ](http://114.214.240.198:8000/datasets/)
 
   Same as FIgLib. However, SKLFS-WildFire does not set a validation set, and users can self split from the training set
 ```
@@ -89,7 +89,7 @@ SKLFS-WildFire
 
 - **SKLFS-WildFire2025**
   
-  [SKLFS-WildFire2025 dataset download here (unavailable)](https://xxx) .
+  [SKLFS-WildFire2025 dataset download here ](http://114.214.240.198:8000/datasets/) .
 
   Same as FIgLib. However, SKLFS-WildFire2025 does not set a validation set, and users can self split from the training set
 ```
